@@ -6,3 +6,4 @@ File 1. Top of the boat should be lasercuttet from acrylic sheet, black, 3mm, bl
 File 2. Bottom of the boat should be CNCed from styrofoam-block 30mm thick, model optimized for CNC Shepeoko3 using a 1.5mm drill. Using a machine screw for weight.
 
 Glue both parts together.
+<img width="535" alt="CNC-Model-Exeampel" src="https://user-images.githubusercontent.com/11591426/218260868-4b39e682-e6b5-4dc9-a55c-07b292e23a33.png">
